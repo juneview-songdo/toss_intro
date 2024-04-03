@@ -19,5 +19,5 @@
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/toss_intro/assets/21379657/570ec56f-e2d7-4b56-b929-c00ff2bf1e76)
 
