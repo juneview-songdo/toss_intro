@@ -1,7 +1,7 @@
 name: toss_intro
 description: "toss style intro screen for flutter"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/toss_intro
 
 version: 1.0.0+1
 
